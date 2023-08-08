@@ -4,7 +4,8 @@
 p, ul, ol {
 	color: #555555;
 	font-family: Verdana, "Geneva CY", "DejaVu Sans", sans-serif;
-	font-size: 20px;
+	font-size: 25px;
+	text-align: center;
 }
 
 /*class---------------------------------------------------*/
